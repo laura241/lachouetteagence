@@ -647,7 +647,6 @@ h5,
 h6,
 p,
 label,
-strong,
 .btn,
 a {
     font-family: "helvetica";
@@ -902,6 +901,7 @@ h4 {
     h5,
     h6,
     p,
+    strong,
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
