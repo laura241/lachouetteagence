@@ -703,6 +703,10 @@ p {
     margin: auto auto auto auto;
 }
 
+label{
+    color: black;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
