@@ -767,16 +767,13 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #483d8b;
 }
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
 
-.tc-white {
-    color: #F3976C!important;
-}
 
 .btn-atomic-tangerine {
     background: #F3976C;
