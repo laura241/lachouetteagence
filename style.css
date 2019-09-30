@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #252221;
 }
 
 .d-bloc button:hover {
@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: #232120;
 }
 
 .d-bloc .panel button:hover,
@@ -293,7 +293,7 @@ a:hover {
 }
 
 .navbar-brand {
-    height: auto;
+    height: 40px;
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
@@ -646,11 +646,12 @@ h4,
 h5,
 h6,
 p,
+label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: white!important;
+    color: #252221;
 }
 
 .container {
@@ -703,10 +704,6 @@ p {
     margin: auto auto auto auto;
 }
 
-label{
-    color: black;
-}
-
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -726,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: white!important;
+    color: #333333!important;
 }
 
 h4 {
@@ -756,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #252222;
     padding: 40px 40px 40px 40px;
 }
 
@@ -770,13 +767,16 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #483d8b;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #9f593d;
+    background-color: #F3976C;
 }
 
+.tc-white {
+    color: #FFFFFF!important;
+}
 
 .btn-atomic-tangerine {
     background: #F3976C;
@@ -901,6 +901,7 @@ h4 {
     h5,
     h6,
     p,
+    strong,
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
