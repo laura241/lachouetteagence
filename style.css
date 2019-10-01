@@ -776,12 +776,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background-image: url("img/dots-bg.png");
+    background:  #b35900;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background:  #b35900!important;
     color: #FFFFFF!important;
 }
 
@@ -798,7 +798,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color:  #b35900!important;
 }
 
 .icon-dark-slate-blue {
