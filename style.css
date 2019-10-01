@@ -409,11 +409,11 @@ a:hover {
     }
 }
 
-.ui-navbar-toggle:focus{
-    background-color: red;
+.tangerinescreen:focus{
+    background-color: #b35900;
 }
 
-.nav > li > .dropdown a {
+.nav li .dropdown a {
     background: none!important;
     display: block;
     padding: 14px 15px;
