@@ -3,7 +3,8 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
@@ -27,15 +28,21 @@
   <url>
     <loc>https://laura241.github.io/lachouetteagence/</loc>
     <image:image>
-      <image:loc>https://laura241.github.io/lachouetteagence/siteinternet-journal.jpg</image:loc>
-    </image:image>
+      <image:loc>https://laura241.github.io/lachouetteagence/img/siteinternet-journal.jpg</image:loc>
+      <image:title>Création d'un site internet pour un journal lyonnais</image:title>
+      <image:geo_location>Lyon, France</image:geo_location>
     <image:image>
-      <image:loc>https://laura241.github.io/lachouetteagence/siteinternet-mariage.jpg</image:loc>
+      <image:loc>https://laura241.github.io/lachouetteagence/img/siteinternet-mariage.jpg</image:loc>
+      <image:title>Création d'un site internet pour une agence de mariages</image:title>
+      <image:geo_location>Lyon, France</image:geo_location>
     </image:image>
-    <image:loc>https://laura241.github.io/lachouetteagence/siteinternet-photographie.jpg</image:loc>
+    <image:loc>https://laura241.github.io/lachouetteagence/img/siteinternet-photographie.jpg</image:loc>
+    <image:title>Création d'un site internet pour des photographes professionnels</image:title>
+      <image:geo_location>Lyon, France</image:geo_location>
     </image:image>
-    <image:loc>https://laura241.github.io/lachouetteagence/siteinternet-voyages.jpg</image:loc>
-    </image:image>
+    <image:loc>https://laura241.github.io/lachouetteagence/img/siteinternet-voyages.jpg</image:loc>
+    <image:title>Création d'un site internet sur les voyages</image:title>
+      <image:geo_location>Lyon, France</image:geo_location>
 
   </url> 
 
