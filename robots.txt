@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://laura241.github.io/lachouetteagence/
+Sitemap: https://laura241.github.io/sitemap.xml
+
 
 
