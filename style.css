@@ -368,25 +368,15 @@ a:hover {
     z-index: 2;
 }
 
-#name:invalid{
-    background: #750e07;
-}
 
 #name:valid{
     color: #1b6b36;
-}
-
-#email:invalid{
-    background: #750e07;
 }
 
 #email:valid{
     color: #1b6b36;
 }
 
-#form-text:invalid{
-    background: #750e07;
-}
 
 #form-text:valid{
     color: #1b6b36;
