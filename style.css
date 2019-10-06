@@ -368,6 +368,31 @@ a:hover {
     z-index: 2;
 }
 
+#name:invalid{
+    color: #750e07;
+}
+
+#name:valid{
+    color: #1b6b36;
+}
+
+#email:invalid{
+    color: #750e07;
+}
+
+#email:valid{
+    color: #1b6b36;
+}
+
+#form-text:invalid{
+    color: #750e07;
+}
+
+#form-text:valid{
+    color: #1b6b36;
+}
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
