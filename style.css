@@ -949,6 +949,12 @@ h4 {
         padding-left: 20px!important;
         padding-right: 20px!important;
     }
+
+    strong{
+        font-size: 1.2em;
+        text-align: center;
+    }
+
     .b-parallax {
         background-attachment: scroll;
     }
