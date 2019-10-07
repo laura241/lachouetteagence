@@ -80,6 +80,10 @@ a:hover {
     background: top no-repeat;
 }
 
+.bg-presentation {
+    background-image: url("img/image-de-presentation.jpg");
+}
+
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
@@ -217,6 +221,7 @@ a:hover {
 .l-bloc .divider-h span {
     border-color: rgba(0, 0, 0, .1);
 }
+
 
 .d-bloc .panel .a-btn,
 .l-bloc .a-btn,
@@ -870,9 +875,6 @@ h4 {
         background-color: red;
     }
 
-    .bg-presentation {
-        background-image: url("img/image-de-presentation.jpg");
-    }
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -887,9 +889,6 @@ h4 {
         background-color: red;
     }
 
-    .bg-presentation {
-        background-image: url("img/image-de-presentation.jpg");
-    }
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -1075,12 +1074,23 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    .bg-presentation {
+    background-image: none;
+    }
 }
+
+
 
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .bg-presentation {
+        background-image: none;
+    }
+
 }
 
