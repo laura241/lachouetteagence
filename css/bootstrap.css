@@ -1830,16 +1830,6 @@ dd {
     margin-left: 0
 }
 
-.carousel-inner>.item>a>img,
-.carousel-inner>.item>img,
-.img-responsive,
-.thumbnail a>img,
-.thumbnail>img {
-    display: inherit;
-    max-width: 100%;
-    height: auto
-}
-
 @media (min-width:768px) {
     .dl-horizontal dt {
         float: left;
@@ -2304,7 +2294,7 @@ pre code {
     body{
         font-size: 15px;
     }
-
+    
     .col-sm-1,
     .col-sm-10,
     .col-sm-11,
@@ -3089,10 +3079,6 @@ fieldset {
     padding: 0;
     margin: 0;
     border: 0
-}
-
-body{
-    font-size: 15px;
 }
 
 legend {
