@@ -1830,6 +1830,16 @@ dd {
     margin-left: 0
 }
 
+.carousel-inner>.item>a>img,
+.carousel-inner>.item>img,
+.img-responsive,
+.thumbnail a>img,
+.thumbnail>img {
+    display: none;
+    max-width: 100%;
+    height: auto
+}
+
 @media (min-width:768px) {
     .dl-horizontal dt {
         float: left;
