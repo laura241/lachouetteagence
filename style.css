@@ -689,7 +689,8 @@ a {
 }
 
 .title{
-    color: #FFF;
+    color: white;
+    text-align: center;
 }
 
 .container {
