@@ -270,6 +270,12 @@ th {
     img {
         max-width: 100% !important
     }
+
+    .title{
+        color: white;
+        text-align: center;
+    }
+    
     h2,
     h3,
     p {

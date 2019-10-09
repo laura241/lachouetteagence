@@ -688,10 +688,6 @@ a {
     color: black;
 }
 
-.title{
-    color: white;
-    text-align: center;
-}
 
 .container {
     max-width: 1000px;
@@ -966,8 +962,6 @@ h4 {
         font-size: 1.2em;
         text-align: center;
     }
-
-    
 
     .b-parallax {
         background-attachment: scroll;
