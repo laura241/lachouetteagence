@@ -298,9 +298,6 @@ a:hover {
     z-index: 1;
 }
 
-.navbar-brand:focus{
-    background-color: red;
-}
 
 .navbar-brand {
     height: 40px;
