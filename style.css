@@ -428,11 +428,8 @@ a:hover {
     }
 }
 
-.tangerinescreen:focus{
-    background-color: #b35900;
-}
 
-.shadowscreen{
+.shadowscreen:focus{
     box-shadow: black;
 }
 
