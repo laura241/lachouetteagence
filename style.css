@@ -17,6 +17,14 @@ a:hover {
     cursor: pointer;
 }
 
+a:focus{
+    box-shadow: black;
+}
+
+button:focus{
+    box-shadow: black;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -342,6 +350,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    box-shadow: black;
 }
 
 .navbar-toggle {
@@ -874,10 +883,6 @@ h4 {
         padding-right: 0;
     }
 
-    .ui-navbar-toggle:focus{
-        background-color: red;
-    }
-
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -890,10 +895,6 @@ h4 {
     }
     .nav-center.navbar .nav {
         max-width: 100%
-    }
-
-    .ui-navbar-toggle:focus{
-        background-color: red;
     }
 
     #bloc-1-hero h1 {
