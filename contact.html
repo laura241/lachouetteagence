@@ -41,7 +41,7 @@
 <div class="page-container">
     
 <!-- bloc-0 -->
-<header>
+<header role="banner">
 	<div class="bloc bgc-white l-bloc " id="bloc-0">
 		<div class="container bloc-sm">
 			<nav class="navbar row">
@@ -93,7 +93,7 @@
 		<div class="container bloc-lg">
 			<div class="row">
 				<div class="col-sm-6">
-					<form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
+					<form role="form" id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
 						<div class="form-group">
 							<label for="name">
 								Nom
@@ -118,7 +118,7 @@
 							</label>
 							<textarea id="message" type="text" class="form-control" title="brief de votre projet" pattern="[a-zA-Z]" rows="4" cols="50" required></textarea>
 						</div> 
-						<button name ="envoyer" class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" aria-label="Envoyez votre message" type="submit">
+						<button name ="envoyer" class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" aria-labelledby="Envoyez votre message" type="submit">
 							Envoyer
 						</button>
 					</form>
@@ -142,7 +142,7 @@
 <!-- ScrollToTop Button END-->
 
 <!-- Footer - bloc-8 -->
-<footer>
+<footer role="contentinfo">
 	<div class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
 		<div class="container bloc-sm">
 			<div class="row">
