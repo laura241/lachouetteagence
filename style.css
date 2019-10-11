@@ -17,13 +17,7 @@ a:hover {
     cursor: pointer;
 }
 
-a:focus{
-    box-shadow: black;
-}
 
-button:focus{
-    box-shadow: black;
-}
 
 
 
@@ -113,6 +107,10 @@ button:focus{
 
 .d-bloc {
     color: white;
+}
+
+.shadowscreen:focus{
+    box-shadow: black;
 }
 
 .d-bloc button:hover {
@@ -351,7 +349,6 @@ button:focus{
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
-    box-shadow: black;
 }
 
 .navbar-toggle {
