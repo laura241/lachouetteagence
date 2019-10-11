@@ -110,7 +110,7 @@ a:hover {
 }
 
 .shadowscreen:focus{
-    box-shadow: black;
+    box-shadow: #000000;
 }
 
 .d-bloc button:hover {
@@ -956,7 +956,7 @@ h4 {
     }
 
     strong{
-        font-size: 1.2em;
+        font-size: 1em;
         text-align: center;
     }
 
