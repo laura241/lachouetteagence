@@ -272,8 +272,8 @@ th {
     }
 
     .title{
-        color: white;
-        text-align: center;
+        color: white !important;
+        text-align: center !important;
     }
 
     h2,
