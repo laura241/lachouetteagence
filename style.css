@@ -889,7 +889,7 @@ h4 {
 @media (max-width: 992px) and (min-width: 768px) {
 
     body{
-        font-size: 15px;
+        font-size: 1.1em;
     }
     .navbar .nav {
         max-width: 80%
