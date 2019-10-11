@@ -719,6 +719,11 @@ p {
     font-family: "Open Sans";
 }
 
+.titleh2{
+    color: white;
+    text-align: center;
+}
+
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
@@ -751,10 +756,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-.titleh2{
-    color: white;
-    text-align: center;
-}
 
 h1 {
     color: #333333!important;
